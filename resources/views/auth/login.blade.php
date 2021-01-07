@@ -23,7 +23,7 @@
   <style>
     .container {
        width: 30%;
-       margin-top: 10%;
+       margin-top: 8%;
        box-shadow: 0 3px 20px rgba(0, 0, 0, 0.3);
        padding: 35px;
     }
@@ -86,7 +86,7 @@
                             </div>
                         </div>
                     <button class="btn btn-lg btn-info btn-block" type="submit">Login</button>
-                    <p class="mt-5 mb-3 text-muted">© Upt Lab Terpadu 2020</p>
+                    <p class="mt-5 mb-3 text-muted">© Gusti Wahyu Putra 2020</p>
             </form>
 
         </div>

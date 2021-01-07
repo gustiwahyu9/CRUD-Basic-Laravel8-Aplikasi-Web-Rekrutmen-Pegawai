@@ -162,15 +162,15 @@
                     <!-- Footer Social Icons-->
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <h4 class="text-uppercase mb-4">Follow Us</h4>
-                        <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/upnjakarta/"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/upnjakarta?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><i class="fab fa-fw fa-twitter"></i></a>
-                        <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/upnveteranjakarta/"><i class="fab fa-fw fa-instagram"></i></a>
+                        <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="#"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="#"><i class="fab fa-fw fa-twitter"></i></a>
+                        <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="#"><i class="fab fa-fw fa-instagram"></i></a>
                     </div>
                     <!-- Footer About Text-->
                     <div class="col-lg-4">
                         <h4 class="text-uppercase mb-4">Tautan / Links</h4>
                         <p class="lead mb-0">
-                            <a target="_blank" href="https://www.upnvj.ac.id/">Portal UPNVJ</a>
+                            <a target="_blank" href="#">Portal Link</a>
                         </p>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Copyright © Universitas Pembangunan Nasional "Veteran" Jakarta 2020</small></div>
+            <div class="container"><small>Copyright © Gusti Wahyu Putra 2020</small></div>
         </div>
         <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
         <div class="scroll-to-top d-lg-none position-fixed">
