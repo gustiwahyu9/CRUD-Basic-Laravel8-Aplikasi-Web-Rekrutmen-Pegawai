@@ -4,6 +4,8 @@
 <a href="#"><img src="https://drive.google.com/thumbnail?id=1Jvv3J6SfKK0aP2yNOmDEyEw8A80cT8Lt" width="250"></a>
 <a href="#"><img src="https://drive.google.com/thumbnail?id=1v_QNwXlWnWQ1WQApnG9MbJUMjPPGBEB9" width="450"></a>
 <a href="#"><img src="https://drive.google.com/thumbnail?id=13NmkhL2-KZffJvSNQ5oeaMFpSJn7V2Lm" width="450"></a>
+<a href="#"><img src="https://drive.google.com/thumbnail?id=1y7v_xfs_pdKHC5eOxCXkRZofZkqAPmiX" width="450"></a>
+<a href="#"><img src="https://drive.google.com/thumbnail?id=1k3fAHiYdSf8aeD2KRGMgMgD05KTBHdWQ" width="450"></a>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
